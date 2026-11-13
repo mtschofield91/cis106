@@ -12,3 +12,32 @@ A web server is a **server** set up to host a website or service, receiving and 
 
 # 2. What are some different web server applications?
 
+## 1. Apache HTTP Server
+
+**An open source web server application. Serves HTTP requests and delivers website content to users. A common hosting service for websites and web applications.**
+
+* Operating Systems: Linux, Windows, macOS, Unix-based systems.
+
+* Download/Site: [https://httpd.apache.org/](Apache HTTP)
+
+## 2, Microsoft Internet Information Services (IIS)
+
+**Developed by Microsoft to allow users to host websites, applications, and web services on Windows and Windows based systems.**
+
+* Operating Systems: Windows 10/11
+
+* Project Site: [https://www.iis.net/](Microsoft IIS)
+
+* Download: Microsoft IIS is a built in feature for Windows Operating systems, just requiring enable/disable from IIS menu.
+
+## 3. Caddy
+
+**Another open source web server. Designed to be more streamlined for the user, it stands out by auto-renewing HTTPS certificates.**
+
+* Operating Systems: Linux, Windows, macOS, and FreeBSD.
+
+* Download/Site: [https://caddyserver.com/](Caddy)
+
+# What is Virtualization?
+
+Virtualization is a technology that creates virtual hardware. It simulates physical hardware with software based stand-ins. 
